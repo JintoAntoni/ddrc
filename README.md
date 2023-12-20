@@ -1,2 +1,2 @@
 # ddrc
-Custom addons folder for ddrc
+Custom addons folder for ddrc2
